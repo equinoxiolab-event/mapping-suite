@@ -7,8 +7,8 @@ Herramientas de ingeniería para proyección profesional: videomapping, salas in
 ## Descargar
 Todo está en **[Releases →](../../releases/latest)**
 
-- **Windows (x64):** `Equinoxio Mapping Suite Setup 1.0.0.exe` — SmartScreen mostrará un aviso (app sin firma): *Más información → Ejecutar de todas formas*.
-- **macOS (Apple Silicon):** `Equinoxio Mapping Suite 1.0.0 arm64.dmg` — primera apertura: *clic derecho → Abrir*.
+- **Windows (x64):** `Equinoxio Mapping Suite Setup 0.9.0.exe` — SmartScreen mostrará un aviso (app sin firma): *Más información → Ejecutar de todas formas*.
+- **macOS (Apple Silicon):** `Equinoxio Mapping Suite 0.9.0 arm64.dmg` — primera apertura: *clic derecho → Abrir*.
 - **📄 Presentación:** `Pitch-Equinoxio-Mapping-Suite.pdf` — qué es y qué hace, en 8 diapositivas.
 
 ## Contacto
